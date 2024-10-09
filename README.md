@@ -28,11 +28,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/644ff7db-c14f-42fc-83bb-ed9b03201512)  ![image](https://github.com/user-attachments/assets/651966e0-b1bd-4328-9e44-4727e363407e)  ![image](https://github.com/user-attachments/assets/3c5c3118-5a10-4f8e-adc6-f11a2efa424f)
+
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1.) A link to your helpdesk's admin/ analyst login page should've been provided after the installation and creation of your help desk (http://localhost/osTicket/scp/login.php) 
 </p>
 <br />
 
