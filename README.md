@@ -29,29 +29,51 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 
-![image](https://github.com/user-attachments/assets/644ff7db-c14f-42fc-83bb-ed9b03201512)  ![image](https://github.com/user-attachments/assets/651966e0-b1bd-4328-9e44-4727e363407e)  ![image](https://github.com/user-attachments/assets/3c5c3118-5a10-4f8e-adc6-f11a2efa424f)
+![image](https://github.com/user-attachments/assets/c0b6581f-dc2e-4f6f-a7ef-0d6e497bf35e)
+
 
 
 
 
 </p>
 <p>
-1.) A link to your helpdesk's admin/ analyst login page should've been provided after the installation and creation of your help desk (http://localhost/osTicket/scp/login.php) 
+1.)Upon logging into the helpdesk via the admin/ analyst link (http://localhost/osTicket/scp/login.php) I found myseelf in the tickets tab.
+<br />
+
+<p>
+
+  
+  ![image](https://github.com/user-attachments/assets/84810f42-329f-416f-bc2d-aa016d4e687d)  ![Image 10-7-24 at 5 02 AM](https://github.com/user-attachments/assets/91ce5fd4-fa52-4db5-bf59-10f820b37209)  ![Image 10-7-24 at 5 03 AM](https://github.com/user-attachments/assets/4a6a9319-8e24-4b87-afb3-30e8966aaae3)
+
+
+
+</p>
+<p>
+2.) Configuring roles:
+  
+  Navigate to "Agents" tab -> select "Roles" -> then "add new role". From there you can name the role you want to create as well as choose/ group permissions it will be granted. In this case, the name given was "Supreme admin" and it was given "full access" hence the name.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![image](https://github.com/user-attachments/assets/ccc7b380-b142-43a4-9692-30b88a39eb80)  ![image](https://github.com/user-attachments/assets/dd1b2984-a43b-40ee-b67d-9f063ed33c6b)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+3.) Configuring departments:
+
+"Agents" -> "Departments". Just like I did when I created a new role, I am naming the department and choosing what access will be granted to members of said apartment.
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Image 10-7-24 at 6 51 AM](https://github.com/user-attachments/assets/a70c411e-371a-4f72-9d8c-881baead1970)  ![image](https://github.com/user-attachments/assets/70addc3b-52b5-4901-82b5-994e930ada25)  <img width="675" alt="image" src="https://github.com/user-attachments/assets/dc013249-e010-4386-ab64-ac3d7a57bc7c">
+
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+4.) 
